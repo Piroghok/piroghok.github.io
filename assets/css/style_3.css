@@ -34,7 +34,7 @@ body{
     display: flex;
     justify-content: space-around;
     position:absolute;
-    background: url("https://img1.goodfon.ru/wallpaper/nbig/7/c6/listya-vetka-vektor-priroda.jpg") center no-repeat;
+    background: url("../image/listya-vetka-vektor-priroda.jpg") center no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
 }
