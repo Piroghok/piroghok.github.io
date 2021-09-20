@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    font-family: 'Lobster Two', cursive;
+    font-size: 17px;
+    line-height: 1.6;
+    color: rgb(245, 197, 161);
+    background-color:rgb(245, 197, 161);
+    
+}
+
+.header__inner{
+    background-color:rgb(77, 46, 0);
+    width: 100%;
+    max-width: 1600px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.content{
+    color: rgb(77, 46, 0);
+   
+    display: flex;
+    justify-content: space-around;
+}
+
+.container{
+    padding-top: 30px;
+    text-align: center;
+    width: 60%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.container1{
+    text-align: right;
+    width: 40%;
+    max-width: 400px;
+    margin: 0 auto;
+    border: 5px solid rgb(245, 197, 161);
+}
+
